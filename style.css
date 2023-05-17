@@ -125,6 +125,24 @@ nav a:hover{
     display: block;
     margin: auto;
 }
+#compañeros{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 200px 100px;
+}
+#compañeros a{
+    text-decoration: none;
+    background-color: #94618e;
+    padding: 30px 40px;
+    margin: 25px 100px;
+    color: #f8eee7;
+    border-radius: 60px;
+}
+#compañeros a:hover{
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+}
 #contacto{
     display: flex;
     flex-direction: column;
