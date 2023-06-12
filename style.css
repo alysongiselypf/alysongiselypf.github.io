@@ -129,7 +129,7 @@ nav a:hover{
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 200px 90px;
+    padding: 100px 90px;
 }
 #compañeros a{
     text-decoration: none;
